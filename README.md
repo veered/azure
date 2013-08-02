@@ -2,7 +2,7 @@
 
 # REQUIREMENTS
 
-## Supported Platforms
+# SUPPORTED PLATFORMS
 
 # RECIPES
 
@@ -10,9 +10,9 @@
 
 # ATTRIBUTES
 
-## Basic Settings
+# BASIC SETTINGS
 
-## Contributing
+# CONTRIBUTING
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
@@ -20,6 +20,6 @@
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Authors
+# AUTHORS
 Lucas Hansen
 
